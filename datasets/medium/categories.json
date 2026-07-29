@@ -1,0 +1,12 @@
+{
+  "rickshaw": {"bn": "রিকশা", "en": "Rickshaw"},
+  "boat": {"bn": "নৌকা", "en": "Boat"},
+  "national_flag": {"bn": "জাতীয় পতাকা", "en": "National Flag"},
+  "royal_bengal_tiger": {"bn": "বাঘ", "en": "Royal Bengal Tiger"},
+  "hilsa_fish": {"bn": "ইলিশ মাছ", "en": "Hilsa Fish"},
+  "tea_garden": {"bn": "চা বাগান", "en": "Tea Garden"},
+  "padma_bridge": {"bn": "পদ্মা সেতু", "en": "Padma Bridge"},
+  "mosque": {"bn": "মসজিদ", "en": "Mosque"},
+  "cng": {"bn": "সিএনজি", "en": "CNG"},
+  "water_lily": {"bn": "শাপলা ফুল", "en": "Water Lily"}
+}
